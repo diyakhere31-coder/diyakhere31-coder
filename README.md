@@ -6,14 +6,14 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I build backend-focused web applications using **Python & Django**.  
 Currently working on **AI-powered projects** involving resume screening,
 NLP, and intelligent job-matching systems.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 - **Languages:** Python, SQL  
 - **Frameworks:** Django  
 - **AI / NLP:** TF-IDF, Cosine Similarity  
