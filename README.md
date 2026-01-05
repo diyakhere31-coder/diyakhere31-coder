@@ -1,36 +1,87 @@
-## Hi, I’m Diya 👋
+<h1 align="center">Hi, I'm Diya 👋</h1>
+<h3 align="center">MCA Final-Year Student | Python & Django Backend Developer | AI-Powered Web Systems</h3>
 
-🎓 MCA Final-Year Student  
-💻 Python & Django Backend Developer  
-🧠 Interested in AI, NLP, and Smart Web Systems  
-
----
-
-### About Me
-I build backend-focused web applications using **Python & Django**.  
-Currently working on **AI-powered projects** involving resume screening,
-NLP, and intelligent job-matching systems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Django-Backend-green?style=flat-square&logo=django"/>
+  <img src="https://img.shields.io/badge/AI-NLP-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Roles-orange?style=flat-square"/>
+</p>
 
 ---
 
-### Tech Stack
-- **Languages:** Python, SQL  
-- **Frameworks:** Django  
-- **AI / NLP:** TF-IDF, Cosine Similarity  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Tools:** Git, GitHub  
-- **Database:** SQLite  
+## 👩‍💻 About Me
+
+I’m a **backend-focused developer** who loves building **intelligent, scalable web applications** using **Python and Django**.
+Currently exploring **AI + NLP** to solve real-world problems like **resume screening, job matching, and smart hiring platforms**.
+
+* 🎓 MCA Final-Year Student
+* 🧠 Interested in **AI, NLP & Smart Web Systems**
+* ⚙️ Strong foundation in **DSA & Backend Development**
+* 🚀 Passionate about building **real-world, production-ready projects**
 
 ---
 
-### 🌟 Featured Project
-🔹 **AI Job Portal**  
-AI-based job portal that matches resumes with jobs using NLP, weighted skill
-scoring, and domain-aware logic.
+## Tech Stack
 
-👉 Repo: `ai-job-portal`
+**Languages:**
+
+* Python, SQL
+
+**Backend & Frameworks:**
+
+* Django, Django ORM
+
+**AI / NLP:**
+
+* TF-IDF
+* Cosine Similarity
+* Skill-Based Scoring Logic
+
+**Frontend:**
+
+* HTML, CSS, Bootstrap
+
+**Tools & Platforms:**
+
+* Git, GitHub
+
+**Database:**
+
+* SQLite
 
 ---
 
-### 📫 Contact
-📧 Email: diyakhere31@gmail.com
+## 🌟 Featured Project
+
+### 🤖 AI Job Portal
+
+An **AI-powered job portal** that intelligently matches resumes with job requirements using **NLP, weighted skill scoring, and domain-aware logic**.
+
+**Key Highlights:**
+
+* Resume screening using **TF-IDF + Cosine Similarity**
+* Domain-based skill weighting (IT, Mechanical, Civil)
+* Recruiter, Admin & User dashboards
+* Job analytics & visual insights
+
+👉 **Repository:** [ai-job-portal](https://github.com/diyakhere31-coder/ai-job-portal)
+
+---
+
+## 📈 What I'm Currently Working On
+
+* Enhancing AI resume-matching accuracy
+* Exploring advanced NLP techniques
+* Building more **industry-oriented Django projects**
+
+---
+
+## 📫 Let’s Connect
+
+* 📧 Email: **[diyakhere31@gmail.com](mailto:diyakhere31@gmail.com)**
+* 💼 GitHub: **@diyakhere31-coder**
+
+---
+
+⭐ *Always curious. Always building. Always improving.*
