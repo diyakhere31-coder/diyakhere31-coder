@@ -80,6 +80,8 @@ An **AI-powered job portal** that intelligently matches resumes with job require
 ## 📫 Let’s Connect
 
 * 📧 Email: **[diyakhere31@gmail.com](mailto:diyakhere31@gmail.com)**
+* 💼 [LinkedIn – Diya Khere](https://www.linkedin.com/in/diya-khere-065680391/)
+* 🧠 [LeetCode – DSA Practice](https://leetcode.com/Diya_Khere_88/)
 * 💼 GitHub: **@diyakhere31-coder**
 
 ---
