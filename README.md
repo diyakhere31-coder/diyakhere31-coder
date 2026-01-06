@@ -8,6 +8,14 @@
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Roles-orange?style=flat-square"/>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Diya%20Khere-blue?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=flat-square&logo=leetcode"/>
+  </a>
+</p>
 ---
 
 ## 👩‍💻 About Me
