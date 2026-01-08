@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/diya-khere-065680391/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Diya%20Khere-blue?style=flat-square&logo=linkedin"/>
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME/" target="_blank">
+  <a href="https://leetcode.com/Diya_Khere_88/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=flat-square&logo=leetcode"/>
   </a>
 </p>
