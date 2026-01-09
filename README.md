@@ -91,7 +91,7 @@ An **AI-powered job portal** that intelligently matches resumes with job require
 * 💼 [LinkedIn – Diya Khere](https://www.linkedin.com/in/diya-khere-065680391/)
 * 🧠 [LeetCode – DSA Practice](https://leetcode.com/Diya_Khere_88/)
 * 💼 GitHub: **@diyakhere31-coder**
-
+* 
 ---
 
-⭐ *Always curious. Always building. Always improving.*
+⭐ *Always Curious. Always Building. Always Improving.*
