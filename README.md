@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Diya 👋</h1>
+<h1 align="center">Hello, I'm Diya 👋</h1>
 <h3 align="center">MCA Final-Year Student | Python & Django Backend Developer | AI-Powered Web Systems</h3>
 
 <p align="center">
