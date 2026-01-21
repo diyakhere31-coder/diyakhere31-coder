@@ -70,7 +70,7 @@ An **AI-powered job portal** that intelligently matches resumes with job require
 
 * Resume screening using **TF-IDF + Cosine Similarity**
 * Domain-based skill weighting (IT, Mechanical, Civil)
-* Recruiter, Admin & User dashboards
+* Recruiter, Admin & User Dashboards
 * Job analytics & visual insights
 
 👉 **Repository:** [ai-job-portal](https://github.com/diyakhere31-coder/ai-job-portal)
