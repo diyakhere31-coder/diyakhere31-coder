@@ -23,7 +23,7 @@
 I’m a **backend-focused developer** who loves building **intelligent, scalable web applications** using **Python and Django**.
 Currently exploring **AI + NLP** to solve real-world problems like **resume screening, job matching, and smart hiring platforms**.
 
-* 🎓 MCA Final-Year Student
+* 🎓 MCA Graduate
 * 🧠 Interested in **AI, NLP & Smart Web Systems**
 * ⚙️ Strong foundation in **DSA & Backend Development**
 * 🚀 Passionate about building **real-world, production-ready projects**
